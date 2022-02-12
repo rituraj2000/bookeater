@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404604450403",
+    "project_id": "h6project-9533b",
+    "storage_bucket": "h6project-9533b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404604450403:android:726e8aed930a96dc2aea56",
+        "android_client_info": {
+          "package_name": "com.bookeater.bookeater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404604450403-0adup0srfmivo41598pjcoo3qbllgsul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6NCHRX3PDi-naitVRyQO9CwBnKb9PNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404604450403-0adup0srfmivo41598pjcoo3qbllgsul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
